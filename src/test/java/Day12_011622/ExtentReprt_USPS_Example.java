@@ -16,6 +16,7 @@ public class ExtentReprt_USPS_Example extends Reusable_Annotations {
 
     @Test()
     public void uspsTest(){
+        //Test
 
         //navigate to usps
         logger.log(LogStatus.INFO,"Navigate to USPS home page");
